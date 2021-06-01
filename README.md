@@ -36,7 +36,7 @@ Get your API key for free and without hassle from the [Abstact website](https://
 
 ## Quickstart
 
-### Verify email
+### Get exchange rates
 
 ```python
 import pprint
@@ -116,5 +116,5 @@ python3 setup.py install --user
 Once you implementer all your changes and the unit tests, run the following command to run the tests:
 
 ```bash
-EMAIL_VAL_API_KEY=YYYYYY python3 tests/test_python_exchange_rates.py
+EXCHANGE_RATES_API_KEY=YYYYYY python3 tests/test_python_exchange_rates.py
 ```
