@@ -16,7 +16,7 @@ requirements = required
 
 setup(
     name='abstract_python_exchange_rates',
-    version='1.0.0',
+    version='1.0.1',
     author='Benjamin Bouchet',
     author_email='libraries@abstractapi.com',
     description="AbstractExchangeRates - Wrapper to quickly start using the powerful AbstractAPI's exchange rates service in your projects.",
